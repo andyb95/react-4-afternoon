@@ -1016,6 +1016,8 @@ export default class About extends Component {
 
 ## Black Diamond
 
+<!-- *!*!*!*!*! History -->
+
 Try adding a back button on the `Student` detail view that will route back to the `ClassList` view. You can also add a back button to the `ClassList` view that will route back to the `Home` view.
 
 ## Resources
